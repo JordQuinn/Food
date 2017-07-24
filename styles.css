@@ -1,0 +1,32 @@
+body{
+  margin-left: 100px;
+  background-color: linen;
+}
+#query{
+  font-size: 30px;
+}
+
+h1{
+  text-align: center;
+  color: maroon;
+}
+
+#display{
+  display: flex;
+  flex-wrap: wrap;
+}
+.container{
+  border: solid maroon 6px;
+  display: flex;
+  flex-wrap: wrap;
+  width: 150px;
+  margin: 10px;
+  background-color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+#title{
+  text-decoration: none;
+  color: grey;
+}
